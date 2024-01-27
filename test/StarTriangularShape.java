@@ -12,6 +12,7 @@ public class StarTriangularShape {
 
     @Test
     public void testToCheckMultiples(){
+        assertEquals();
 
     }
 
