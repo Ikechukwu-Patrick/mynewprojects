@@ -1,4 +1,4 @@
-package chapterOne;
+package PackageOne;
 
 public class Shillow {
     public static void main(String[] args) {

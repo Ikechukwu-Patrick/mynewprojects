@@ -1,8 +1,8 @@
-package chapterOne;
+package PackageOne;
 
 import java.util.Scanner;
     public class StarTriangularShape {
-        public static void main(String[] args) {
+        public static void main(String[] argument) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter the number of rows for the triangle: ");
             int numRows = scanner.nextInt();
