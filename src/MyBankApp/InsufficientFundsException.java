@@ -1,4 +1,4 @@
-package BankApp;
+package MyBankApp;
 
 public class InsufficientFundsException extends RuntimeException{
     public InsufficientFundsException(String message){
