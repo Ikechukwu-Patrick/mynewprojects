@@ -1,4 +1,4 @@
-package chapterTwo;
+package RandomChapter;
 
 public class CalculatingValuesForEachElement {
     public static void main(String[] args) {

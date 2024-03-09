@@ -1,4 +1,4 @@
-package chapterTwo;
+package RandomChapter;
 
 public class Dorge {
     public static void main(String[] args) {

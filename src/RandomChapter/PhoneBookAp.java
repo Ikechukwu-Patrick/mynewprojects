@@ -1,4 +1,4 @@
-package chapterTwo;
+package RandomChapter;
 import java.util.Scanner;
 public class PhoneBookAp {
     public static void main(String[] args) {

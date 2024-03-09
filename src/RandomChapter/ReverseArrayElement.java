@@ -1,4 +1,4 @@
-package chapterTwo;
+package RandomChapter;
 
 public class ReverseArrayElement {
     public static int[] reverseArrayWithoutTempArray(int[] array) {

@@ -1,4 +1,4 @@
-package chapterTwo;
+package RandomChapter;
 
 public class InitialArray {
     public static void main(String[] args) {
